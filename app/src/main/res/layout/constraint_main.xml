@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ImageView
+
+        android:id="@+id/iv_gambar"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:src="@drawable/nitro2"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"/>
+
+    <TextView
+        android:id="@+id/nama"
+        android:text="@string/nama"
+        android:padding="8dp"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        app:layout_constraintTop_toBottomOf="@id/iv_gambar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/deskripsi"
+        android:text="@string/deskripsi"
+        app:layout_constraintTop_toBottomOf="@id/nama"
+        android:justificationMode="inter_word"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/harga"
+        android:text="@string/harga"
+        app:layout_constraintTop_toBottomOf="@id/deskripsi"
+        app:layout_constraintStart_toEndOf="id"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="#DA2323"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:text="@string/beli"
+        app:layout_constraintTop_toBottomOf="@id/harga"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

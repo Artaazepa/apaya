@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">apaya</string>
+    <string name="definisi">Go full throttle with an 11th Gen Intel® Core™ i7 processor1, GeForce RTX™ 30 Series GPUs1 and the high-speed IPS FHD display with 144Hz refresh and 3ms2 response.</string>
+    <string name="nama">LAPTOP GAMING ACER NITRO 5 AN515 58 i5 12500H 16GB 1TB SSD RTX 3050 4GB 144Hz WINDOWS 11</string>
+    <string name="harga">Rp13.099.000</string>
+    <string name="deskripsi"><![CDATA[ACER NITRO AN515-58-55E6 Spesifikasi :
+      \nProsessor : 12th Gen Intel Core i5-12500H Processor 2.5 GHz (18M Cache, up to 4.5 GHz, 12 cores: 4 P-cores and 8 E-cores)
+      \nDisplay : 15.6-inch FHD (1920 x 1080) 16:9, 144Hz IPS 250nits; sRGB : 62.5%; NTSC % : 45% - Ram : 8GB DDR4 / 16GB ( 8*2 )
+      \nStorage : 512GB SSD Nvme / 1TB SSD ( 512GB + 512GB )
+      \nGraphics Card: Nvidia RTX3050 VRAM 4GB GDDR6 ( TGP : 95W )
+      \nOperasional Sistem : Windows 11 Home
+      \nKeyboard : 4-Zone Backlit keyboard
+      \nAudio : HD Audio 2 Speakers Stereo
+      \nNetwork and Communication : Wi-Fi 6 AX 1650i & Bluetooth 5.2
+      \nWebcam : 1280 x 720 webcam
+      \nPorts : 3x USB 3.2 Gen 2 ports 1x ThunderboltTM 4 USB Type-C™ 1xHDMI 1x Ethernet (RJ-45) port 1x Audio jack 1x DC-in port 20 V; 100 W
+      \nGaransi : - Garansi 2 TAHUN RESMI ACER INDONESIA FULL SERVICE SPAREPART
+     \nKelengkapan : - Unit - Charger - Dus - Kartu Garansi Bonus : - BACKPACK Acer - Mouse Gaming]]></string>
+    <string name="beli">Beli</string>
+
+</resources>
